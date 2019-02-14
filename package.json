@@ -1,0 +1,30 @@
+{
+  "name": "rn-round-tabbar",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corasan/rn-round-tabbar.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "rn"
+  ],
+  "author": "Henry Paulino <henrypl360@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corasan/rn-round-tabbar/issues"
+  },
+  "homepage": "https://github.com/corasan/rn-round-tabbar#readme",
+  "dependencies": {
+    "react": "^16.8.2",
+    "react-native": "^0.58.4",
+    "react-native-iphone-x-helper": "^1.2.0"
+  },
+  "devDependencies": {}
+}
